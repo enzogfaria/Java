@@ -1,12 +1,10 @@
-import java.util.Scanner;
+import java.util.Locale;
+
 public class Main {
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
-        float x;
-        x = sc.nextFloat();
-        System.out.println("Voce digitou: " + x);
-        sc.close();
+        double x = 10.85858;
+        System.out.printf("%.2f%n", x);
+        Locale.setDefault(Locale.US);
     }
-
 }

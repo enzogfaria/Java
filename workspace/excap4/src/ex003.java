@@ -11,7 +11,7 @@ public class ex003 {
         a = sc.nextInt();f
         b = sc.nextInt();a
         c = sc.nextInt();
-        d = sc.nextInt();
+        d = sc.nextInt();a
         dif = a*b - c*d;
 
         sc.close();

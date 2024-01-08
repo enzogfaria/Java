@@ -8,9 +8,9 @@ public class ex003 {
 
         int a, b , c , d, dif;
 
-        a = sc.nextInt();
+        a = sc.nextInt();A
         b = sc.nextInt();
-        c = sc.nextInt();
+        c = sc.nextInt();AA
         d = sc.nextInt();
         dif = a*b - c*d;
 

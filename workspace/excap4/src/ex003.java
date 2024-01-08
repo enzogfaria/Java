@@ -10,7 +10,7 @@ public class ex003 {
 
         a = sc.nextInt();A
         b = sc.nextInt();
-        c = sc.nextInt();AA
+        c = sc.nextInt();AAmmm
         d = sc.nextInt();
         dif = a*b - c*d;
 

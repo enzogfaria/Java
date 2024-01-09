@@ -8,10 +8,10 @@ public class ex003 {
 
         int a, b , c , d, dif;
 
-        a = sc.nextInt();A
+        a = sc.nextInt();
         b = sc.nextInt();
-        c = sc.nextInt();AAmmmaaa
-        d = sc.nextInt();aaasew
+        c = sc.nextInt();
+        d = sc.nextInt();
         dif = a*b - c*d;
 
         sc.close();

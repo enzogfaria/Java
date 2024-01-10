@@ -8,11 +8,11 @@ public class ex003 {
 
         int a, b , c , d, dif;
 
-        a = sc.nextInt();
-        b = sc.nextInt();assasaa
+        a = sc.nextInt();ggdg
+        b = sc.nextInt();assasaaaa
         c = sc.nextInt();as
         d = sc.nextInt();ddadwd
-        dif = a*b - c*d;
+        dif = a*b - c*d;dsds
 
         sc.close();
 

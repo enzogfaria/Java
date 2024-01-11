@@ -8,7 +8,7 @@ public class ex003 {
 
         int a, b , c , d, dif;
 
-        a = sc.nextInt();gg
+        a = sc.nextInt();g
         b = sc.nextInt();
         c = sc.nextInt();
         d = sc.nextInt();

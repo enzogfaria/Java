@@ -9,7 +9,7 @@ public class ex003 {
         int a, b , c , d, dif;
 
         a = sc.nextInt();ggdg
-        b = sc.nextInt();assa
+        b = sc.nextInt();as
         c = sc.nextInt();
         d = sc.nextInt();
         dif = a*b - c*d;

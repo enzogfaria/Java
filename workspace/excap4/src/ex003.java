@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class ex003 {
     public static void main (String[] args) {
@@ -8,11 +8,11 @@ public class ex003 {
 
         int a, b , c , d, dif;
 
-        a = sc.nextInt();ggdg
-        b = sc.nextInt();assasaaaa
-        c = sc.nextInt();as
-        d = sc.nextInt();ddadwd
-        dif = a*b - c*d;dsds
+        a = sc.nextInt();
+        b = sc.nextInt();
+        c = sc.nextInt();
+        d = sc.nextInt();
+        dif = a*b - c*d;
 
         sc.close();
 

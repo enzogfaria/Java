@@ -6,9 +6,9 @@ public class ex002 {
 
         Scanner sc = new Scanner(System.in);
 
-        double raio, area, pi;.
+        double raio, area, pi;
         raio = sc.nextDouble();
-        raio = Math.pow(raio, 2);.
+        raio = Math.pow(raio, 2);
         pi = 3.14159;
         area = pi*raio;
 

@@ -9,7 +9,7 @@ public class Main {
 
         double conta = 50.00;
         if (min>100) {
-            conta = conta + (min-100)*2;
+            conta += (min-100)*2;
         }
         sc.close();
 

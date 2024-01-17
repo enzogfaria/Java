@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira quantos minutos foram usados:");
 
-        int min = sc.nextInt();k
+        int min = sc.nextInt();
 
         double conta = 50.00;
         if (min>100) {

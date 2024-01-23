@@ -5,6 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the week number:");
 
+<<<<<<< HEAD
         int x = sc.nextInt();
         String day = switch (x) {
             case 1 -> "monday";
@@ -16,6 +17,9 @@ public class Main {
             case 7 -> "sunday";
             default -> "Invalid day";
         };
+=======
+        int min = sc.nextInt();jn
+>>>>>>> 489a066f4c920304b867c536704c5b03f3a19b9d
 
         System.out.printf("Today is %s!", day);
     }
